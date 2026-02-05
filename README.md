@@ -84,7 +84,7 @@ I'm a **Software Engineer** passionate about data science & engineering & analys
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Zaid Zbakh](https://www.linkedin.com/in/zaid-zbakh/)  
+- LinkedIn: [Zaid Zbakh](https://www.linkedin.com/in/zaid-zbakh-074624224/)  
 - Portfolio: [zaid-zbakh-portfolio.vercel.app](https://zaid-zbakh-portfolio.vercel.app/)  
 - Email: zaid.zbakh@example.com
 
