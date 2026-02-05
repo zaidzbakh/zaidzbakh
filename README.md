@@ -13,8 +13,6 @@ I'm a **Software Engineer** passionate about data science & engineering & analys
 
 ---
 
-## 🛠️ Skills
-
 ## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
