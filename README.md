@@ -90,9 +90,5 @@ I'm a **Software Engineer** passionate about data science & engineering & analys
 
 ---
 
-## 📊 GitHub Stats
-![Zaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
 
 Thanks for visiting my profile! 🚀
